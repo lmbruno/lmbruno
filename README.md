@@ -1,4 +1,4 @@
 ### Hi there 👋,  my name is Bruno
 
-🌱 I’m currently learning React, Express, mongodb, nodejs.  
+🌱 I’m currently learning React, Express, mongodb, nodejs, MERN stack.  
 
